@@ -1,0 +1,11 @@
+1. 플러터 시작
+	- Google IO에서 2017년 처음 소개
+	- 다트 라는 언어 사용
+	- IOS와 안드로이드를 함께 개발가능
+	- Readct Native와 경쟁
+	- 크로스플랫폼에서 네이티브의 성능을 내지 못하는 문제를 개선
+	
+	* Flutter API(Utility, Widgets) -> Dart Code 
+		-> Code Compilation -> Window, IOS
+		
+	* flutter.dev
