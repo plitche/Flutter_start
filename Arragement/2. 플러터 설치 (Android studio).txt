@@ -1,1 +1,13 @@
 2. 플러터 설치 (Android studio)
+	- https://developer.android.com/studio
+	- https://docs.flutter.dev/get-started/install/windows
+	
+	
+	- flutter console : flutter_console.bat
+		* flutter doctor
+		
+	- android studio
+		* plugin 설치
+			1) Flutter
+			
+		* Device Manager - create device (가상화 Enable 필요)
